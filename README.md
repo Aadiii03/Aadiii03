@@ -35,7 +35,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adilsheitd7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdul_mutallif" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Aadiii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-mutallif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-adil-a1a67b264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-mutallif" height="30" width="40" /></a>
-<a href="https://instagram.com/adilsheikh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aadiii03" height="30" width="40" /></a>
+<a href="https://instagram.com/adilsheikh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aadii03" height="30" width="40" /></a>
 </div>
 
 <p align="left">
