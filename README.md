@@ -33,7 +33,7 @@
 <div align="center">
     <a href="https://www.hackerrank.com/adilsheikh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdul_mutallif" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adilsheitd7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdul_mutallif" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Aadiii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-mutallif" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Aadii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdul-mutallif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-adil-a1a67b264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-mutallif" height="30" width="40" /></a>
 <a href="https://instagram.com/adilsheikh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aadii03" height="30" width="40" /></a>
 </div>
@@ -58,7 +58,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdul-mutallif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=390 src="https://github-readme-stats.vercel.app/api?username=Aadiii03&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  <img width=390 height=165 src="https://streak-stats.demolab.com?user=abdul-mutallif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" alt="streak graph" />
 <br/>
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-mutallif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
